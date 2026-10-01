@@ -14,7 +14,7 @@ int main()  {
         printf("Better try again!\n");
         break;
     default:
-        printf("Invali grade\n");
+        printf("Invaliｄ grade\n");
     }
     return 0;
 }
